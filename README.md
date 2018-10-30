@@ -1,2 +1,4 @@
 # hello-world
-Getting the hang of GitHub
+
+Hi!
+Designer learning the GitHub process for work
